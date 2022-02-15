@@ -1,7 +1,7 @@
 {
   "name": "modalpartikel-quiz",
   "version": "1.0.0",
-  "description": "",
+  "description": "Modalpartikel quiz with 10 questions for German c1 level",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
