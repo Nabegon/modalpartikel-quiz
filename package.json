@@ -1,0 +1,30 @@
+{
+  "name": "modalpartikel-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "bin": {
+    "modalpartikel-quiz": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nabegon/modalpartikel-quiz.git"
+  },
+  "author": "nabegon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nabegon/modalpartikel-quiz/issues"
+  },
+  "homepage": "https://github.com/Nabegon/modalpartikel-quiz#readme",
+  "devDependencies": {
+    "enquirer": "^2.3.6",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "standard": "^16.0.4"
+  }
+}
