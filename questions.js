@@ -1,62 +1,62 @@
 const questions = [
   {
     name: 'modalpartikel',
-    message: 'Wie geht es dir ___ ?',
+    message: 'Danke, mir geht es gut! Wie geht es dir ___ ?',
     choices: ['eigentlich', 'denn', 'doch', 'ja', 'ruhig'],
     correctChoice: 1
   },
   {
     name: 'modalpartikel',
-    message: 'Du kannst ___ so viel Jägermeister trinken, wie du willst.',
+    message: 'Wir haben die Getränke-Flatrate bestellt. Du kannst ___ so viel Jägermeister trinken, wie du willst.',
     choices: ['doch', 'aber', 'eigentlich', 'ruhig', 'ja'],
     correctChoice: 3
   },
   {
     name: 'modalpartikel',
-    message: 'Wollen wir Döner essen? Nein, ich habe kein hunger. Dann gehe ich ___ nach Hause.',
+    message: 'Wollen wir noch einen Döner essen? - Nein, ich habe keinen Hunger. - Dann gehe ich ___ nach Hause.',
     choices: ['denn', 'vielleicht', 'mal', 'halt', 'ja'],
     correctChoice: 3
   },
   {
     name: 'modalpartikel',
-    message: 'Deutschland ist ___ toll',
-    choices: ['doch', 'vielleicht', 'eigentlich', 'halt', 'aber'],
+    message: 'Ein Bier kostet nur 50 Cent? Deutschland ist ___ toll',
+    choices: ['doch', 'ruhig', 'eigentlich', 'halt', 'aber'],
     correctChoice: 4
   },
   {
     name: 'modalpartikel',
-    message: 'Er lief ___ davon.',
+    message: 'Ich wollte mit ihm reden, aber er lief ___ weg.',
     choices: ['denn', 'vielleicht', 'ruhig', 'einfach', 'doch'],
     correctChoice: 3
   },
   {
     name: 'modalpartikel',
-    message: 'Darüber haben wir ___ schon besprochen.',
+    message: 'Unser Thema heute ist der Klimawandel. Darüber haben wir ___ schon letzte Woche gesprochen.',
     choices: ['ja', 'vielleicht', 'doch', 'mal', 'halt'],
     correctChoice: 0
   },
   {
     name: 'modalpartikel',
-    message: 'Die Party war ___ toll.',
+    message: 'Wie war es gestern? - Die Party war ___ toll. Wir haben die ganze Nacht gefeiert.',
     choices: ['doch', 'vielleicht', 'mal', 'halt', 'ja'],
     correctChoice: 1
   },
   {
     name: 'modalpartikel',
-    message: 'kannst du mir ___ helfen?',
+    message: 'Kannst du mir ___ helfen?',
     choices: ['denn', 'aber', 'mal', 'halt', 'ruhig'],
     correctChoice: 2
   },
   {
     name: 'modalpartikel',
     message: 'Hast du den Professor ___ schon gefragt?',
-    choices: ['einfach', 'vielleicht', 'eigentlich', 'ja', 'denn'],
+    choices: ['aber', 'mal', 'eigentlich', 'ja', 'denn'],
     correctChoice: 2
   },
   {
     name: 'modalpartikel',
-    message: 'Vielleicht bestellen wir ___ lieber Suhi?',
-    choices: ['mal', 'vielleicht', 'denn', 'aber', 'doch'],
+    message: 'Hmm, Pizza ist lecker, aber Inga mag gerne Reis. Vielleicht bestellen wir ___ lieber Sushi?',
+    choices: ['ruhig', 'vielleicht', 'denn', 'aber', 'doch'],
     correctChoice: 4
   }
 ]
