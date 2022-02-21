@@ -1,12 +1,8 @@
 {
   "name": "modalpartikel-quiz",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Modalpartikel quiz with 10 questions for German c1 level",
-  "main": "index.js",
-  "scripts": {
-    "lint": "eslint src",
-    "start": "node index.js"
-  },
+  "main": "./index.js",
   "bin": {
     "modalpartikel-quiz": "./index.js"
   },
