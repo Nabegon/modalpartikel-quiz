@@ -4,7 +4,6 @@
   "description": "Modalpartikel quiz with 10 questions for German c1 level",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src"
   },
   "bin": {
