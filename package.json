@@ -1,6 +1,6 @@
 {
   "name": "modalpartikel-quiz",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Modalpartikel quiz with 10 questions for German c1 level",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,21 @@
     "type": "git",
     "url": "git+https://github.com/Nabegon/modalpartikel-quiz.git"
   },
+  "keywords": [
+    "german",
+    "quiz",
+    "modalpartikel"
+  ],
   "author": "nabegon",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Nabegon/modalpartikel-quiz/issues"
   },
   "homepage": "https://github.com/Nabegon/modalpartikel-quiz#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  },
   "devDependencies": {
-    "enquirer": "^2.3.6",
     "eslint": "^8.9.0",
     "eslint-plugin-import": "^2.25.4",
     "standard": "^16.0.4"
