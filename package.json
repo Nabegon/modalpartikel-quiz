@@ -1,6 +1,6 @@
 {
   "name": "modalpartikel-quiz",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Modalpartikel quiz with 10 questions for German c1 level",
   "main": "index.js",
   "bin": {
