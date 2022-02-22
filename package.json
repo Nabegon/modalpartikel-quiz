@@ -2,9 +2,12 @@
   "name": "modalpartikel-quiz",
   "version": "1.0.6",
   "description": "Modalpartikel quiz with 10 questions for German c1 level",
-  "main": "./index.js",
+  "main": "index.js",
   "bin": {
     "modalpartikel-quiz": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,7 +25,8 @@
   },
   "homepage": "https://github.com/Nabegon/modalpartikel-quiz#readme",
   "dependencies": {
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.3.6",
+    "modalpartikel-quiz": "^1.0.6"
   },
   "devDependencies": {
     "eslint": "^8.9.0",
