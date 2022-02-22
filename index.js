@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { Quiz } = require('enquirer')
 const questions = require('./questions')
 const correctAnswerMessages = require('./correct_answer_messages')
